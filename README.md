@@ -42,10 +42,8 @@ Je suis fier de contribuer à divers projets open source. Voici quelques-unes de
 
 ## 📊 Statistiques GitHub
 
-![Fake GitHub Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=GitHub%20Stats&query=%24.totalStars&suffix=%20Stars&url=https%3A%2F%2Fapi.github.com%2Fusers%2FD3SignedSkin)
-![Fake Top Langs](https://img.shields.io/badge/JavaScript-45%25-brightgreen)
-![Fake Top Langs](https://img.shields.io/badge/Python-35%25-blue)
-![Fake Top Langs](https://img.shields.io/badge/C++-20%25-red)
+![Fake GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3SignedSkin&show_icons=true&theme=radical)
+![Fake Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3SignedSkin&layout=compact&theme=radical)
 
 ### Contributions Récentes
 
@@ -86,8 +84,3 @@ Je suis fier de contribuer à divers projets open source. Voici quelques-unes de
 ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.20-blue)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.55-blue)
-
-## 📈 Mes Graphiques de Statistiques
-
-![Fake GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3SignedSkin&show_icons=true&theme=radical)
-![Fake Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3SignedSkin&layout=compact&theme=radical)
