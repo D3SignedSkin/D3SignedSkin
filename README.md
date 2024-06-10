@@ -48,13 +48,9 @@ Je suis fier de contribuer à divers projets open source. Voici quelques-unes de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3SignedSkin&layout=compact&theme=radical&langs_count=5)
 
-### Contributions Récentes
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3SignedSkin&show_icons=true&theme=radical&hide=contribs,prs,issues)
-
 ## 🏆 Trophées
 
-![Fake Trophy](https://github-profile-trophy.vercel.app/?username=D3SignedSkin&column=7&theme=onedark)
+![Trophées](https://github-profile-trophy.vercel.app/?username=D3SignedSkin&theme=juicyfresh&column=7)
 
 ## 💼 Expérience Professionnelle
 
