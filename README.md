@@ -42,11 +42,15 @@ Je suis fier de contribuer à divers projets open source. Voici quelques-unes de
 
 ## 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3SignedSkin&show_icons=true&theme=radical&hide=stars,issues&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3SignedSkin&show_icons=true&theme=radical&hide=contribs,prs,issues)
+
+### 🌟 Langages les Plus Utilisés
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3SignedSkin&layout=compact&theme=radical&langs_count=5)
 
 ### Contributions Récentes
 
-![Fake Activity Graph](https://dummyimage.com/800x400/000/fff&text=Activity+Graph)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3SignedSkin&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
 ## 🏆 Trophées
 
