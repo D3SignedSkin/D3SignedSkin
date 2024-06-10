@@ -40,10 +40,6 @@ Je suis fier de contribuer à divers projets open source. Voici quelques-unes de
 - **[React](https://github.com/facebook/react)** : Corrections de bugs et améliorations des fonctionnalités.
 - **[Kubernetes](https://github.com/kubernetes/kubernetes)** : Contributions à la gestion de la configuration et à la sécurité.
 
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3SignedSkin&show_icons=true&theme=radical&hide=contribs,prs,issues)
-
 ### 🌟 Langages les Plus Utilisés
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3SignedSkin&layout=compact&theme=radical&langs_count=5)
