@@ -22,10 +22,12 @@ I specialize in crafting responsive web applications, ensuring high performance 
 - [Twitter](https://twitter.com/d3signedskin)
 - [Personal Blog](https://d3signedskinblog.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3SignedSkin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3SignedSkin&layout=compact&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=D3SignedSkin)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=D3SignedSkin&theme=react-dark)
+![Fake GitHub Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=GitHub%20Stats&query=%24.totalStars&suffix=%20Stars&url=https%3A%2F%2Fapi.github.com%2Fusers%2FD3SignedSkin)
+![Fake Top Langs](https://img.shields.io/badge/JavaScript-45%25-brightgreen)
+![Fake Top Langs](https://img.shields.io/badge/Python-35%25-blue)
+![Fake Top Langs](https://img.shields.io/badge/C++-20%25-red)
+![Fake Trophy](https://img.shields.io/badge/Trophy-Gold-brightgreen)
+![Fake Activity Graph](https://dummyimage.com/600x400/000/fff&text=Fake+Activity+Graph)
 
 ## 📝 Latest Blog Posts
 - [Exploring the Intersection of AI and Development](https://d3signedskinblog.com/ai-and-development)
