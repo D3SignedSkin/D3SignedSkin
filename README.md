@@ -42,8 +42,8 @@ Je suis fier de contribuer à divers projets open source. Voici quelques-unes de
 
 ## 📊 Statistiques GitHub
 
-![Fake GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3SignedSkin&show_icons=true&theme=radical)
-![Fake Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3SignedSkin&layout=compact&theme=radical)
+![Fake GitHub Stats](https://dummyimage.com/600x400/282828/fff&text=Contributions:+10,000+%7C+Repos:+150+%7C+Commits:+30,000)
+![Fake Top Langs](https://dummyimage.com/400x200/282828/fff&text=JavaScript+45%25%0APython+35%25%0AC++20%25)
 
 ### Contributions Récentes
 
