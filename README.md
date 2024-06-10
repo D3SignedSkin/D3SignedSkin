@@ -11,22 +11,22 @@ Développeur full-stack avec plus de 10 ans d'expérience dans la création de s
 
 ## 🌟 Mes Projets Phare
 
-### 1. **[AI Code Assistant](https://github.com/D3SignedSkin/ai-code-assistant)**
-Un assistant de codage intelligent basé sur l'IA qui aide les développeurs à écrire et améliorer leur code.
+### 1. **[ChatGPT Helper](https://github.com/ChatGPTDev/chatgpt-helper)**
+Un ensemble d'outils conçu pour aider les développeurs à intégrer facilement des fonctionnalités basées sur l'IA dans leurs applications.
 
 ![Repo Stars](https://img.shields.io/badge/Stars-5.4k-blue)
 ![Repo Forks](https://img.shields.io/badge/Forks-1.2k-yellow)
 ![Repo Issues](https://img.shields.io/badge/Issues-123-red)
 
-### 2. **[Secure Web Framework](https://github.com/D3SignedSkin/secure-web-framework)**
-Un framework web sécurisé et léger conçu pour protéger les applications contre les menaces courantes.
+### 2. **[AI Code Analyzer](https://github.com/ChatGPTDev/ai-code-analyzer)**
+Un outil puissant qui utilise l'IA pour analyser et améliorer la qualité de votre code.
 
 ![Repo Stars](https://img.shields.io/badge/Stars-3.7k-blue)
 ![Repo Forks](https://img.shields.io/badge/Forks-900-yellow)
 ![Repo Issues](https://img.shields.io/badge/Issues-58-red)
 
-### 3. **[DevOps Mastery](https://github.com/D3SignedSkin/devops-mastery)**
-Un guide complet pour maîtriser les outils et pratiques DevOps modernes.
+### 3. **[Open Source Docs](https://github.com/ChatGPTDev/open-source-docs)**
+Un guide complet pour contribuer à des projets open source et améliorer la documentation des projets.
 
 ![Repo Stars](https://img.shields.io/badge/Stars-2.6k-blue)
 ![Repo Forks](https://img.shields.io/badge/Forks-450-yellow)
